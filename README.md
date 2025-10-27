@@ -9,10 +9,14 @@ This project focuses on both **aesthetic design** and **functional performance**
 
 Below are screenshots showcasing different sections of the Bee Friendly Gardening website:
 ![Home Page](https://github.com/Syedaaneesa/Bee-Friendly-Gardening/blob/main/Home-Bee-Friendly-Gardening-10-27-2025_05_02_PM%20(1).png)
-![About Section](https://github.com/Syedaaneesa/Alpine-cottage/blob/main/alpinecottagebedandbreakfast-com-10-07-2025_08_11_PM.png)
-![Rooms Section](https://github.com/Syedaaneesa/Alpine-cottage/blob/main/alpinecottagebedandbreakfast-com-10-07-2025_08_11_PMs.png)
-![Gallery Section](https://github.com/Syedaaneesa/Alpine-cottage/blob/main/alpinecottagebedandbreakfast-com-10-07-2025_08_12_PM%20(1).png)
-![Contact Section](https://github.com/Syedaaneesa/Alpine-cottage/blob/main/alpinecottagebedandbreakfast-com-10-07-2025_08_12_PM%20(1)w.png)
+![About Section](https://github.com/Syedaaneesa/Bee-Friendly-Gardening/blob/main/Home-Bee-Friendly-Gardening-10-27-2025_05_02_PM.png)
+![Rooms Section](https://github.com/Syedaaneesa/Bee-Friendly-Gardening/blob/main/Home-Bee-Friendly-Gardening-10-27-2025_05_03_PM%20(1).png)
+![Gallery Section](https://github.com/Syedaaneesa/Bee-Friendly-Gardening/blob/main/Home-Bee-Friendly-Gardening-10-27-2025_05_03_PM%20(2).png)
+![Contact Section](https://github.com/Syedaaneesa/Bee-Friendly-Gardening/blob/main/Home-Bee-Friendly-Gardening-10-27-2025_05_03_PM.png)
+![Contact Section](https://github.com/Syedaaneesa/Bee-Friendly-Gardening/blob/main/Home-Bee-Friendly-Gardening-10-27-2025_05_04_PM%20(1).png)
+![Contact Section](https://github.com/Syedaaneesa/Bee-Friendly-Gardening/blob/main/Home-Bee-Friendly-Gardening-10-27-2025_05_04_PM%20(2).png)
+![Contact Section](https://github.com/Syedaaneesa/Bee-Friendly-Gardening/blob/main/Home-Bee-Friendly-Gardening-10-27-2025_05_04_PM.png)
+
 
 
 > 📸 *Note:* Replace the `images/image1.png` etc. paths above with your actual image filenames or GitHub URLs.
