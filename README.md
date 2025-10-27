@@ -13,7 +13,6 @@ Below are screenshots showcasing different sections of the Bee Friendly Gardenin
 ![Home Page](https://github.com/Syedaaneesa/Bee-Friendly-Gardening/blob/main/Home-Bee-Friendly-Gardening-10-27-2025_05_02_PM%20(1).png)
 ![Contact Section](https://github.com/Syedaaneesa/Bee-Friendly-Gardening/blob/main/Home-Bee-Friendly-Gardening-10-27-2025_05_03_PM.png)
 ![Rooms Section](https://github.com/Syedaaneesa/Bee-Friendly-Gardening/blob/main/Home-Bee-Friendly-Gardening-10-27-2025_05_03_PM%20(1).png)
-![Contact Section](https://github.com/Syedaaneesa/Bee-Friendly-Gardening/blob/main/Home-Bee-Friendly-Gardening-10-27-2025_05_03_PM.png)
 ![Contact Section](https://github.com/Syedaaneesa/Bee-Friendly-Gardening/blob/main/Home-Bee-Friendly-Gardening-10-27-2025_05_04_PM%20(1).png)
 ![Contact Section](https://github.com/Syedaaneesa/Bee-Friendly-Gardening/blob/main/Home-Bee-Friendly-Gardening-10-27-2025_05_04_PM%20(2).png)
 ![Contact Section](https://github.com/Syedaaneesa/Bee-Friendly-Gardening/blob/main/Home-Bee-Friendly-Gardening-10-27-2025_05_04_PM.png)
