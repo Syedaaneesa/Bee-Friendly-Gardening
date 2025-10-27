@@ -10,8 +10,8 @@ This project focuses on both **aesthetic design** and **functional performance**
 Below are screenshots showcasing different sections of the Bee Friendly Gardening website:
 ![About Section](https://github.com/Syedaaneesa/Bee-Friendly-Gardening/blob/main/Home-Bee-Friendly-Gardening-10-27-2025_05_02_PM.png)
 ![Gallery Section](https://github.com/Syedaaneesa/Bee-Friendly-Gardening/blob/main/Home-Bee-Friendly-Gardening-10-27-2025_05_03_PM%20(2).png)
-![Contact Section](https://github.com/Syedaaneesa/Bee-Friendly-Gardening/blob/main/Home-Bee-Friendly-Gardening-10-27-2025_05_03_PM.png)
 ![Home Page](https://github.com/Syedaaneesa/Bee-Friendly-Gardening/blob/main/Home-Bee-Friendly-Gardening-10-27-2025_05_02_PM%20(1).png)
+![Contact Section](https://github.com/Syedaaneesa/Bee-Friendly-Gardening/blob/main/Home-Bee-Friendly-Gardening-10-27-2025_05_03_PM.png)
 ![Rooms Section](https://github.com/Syedaaneesa/Bee-Friendly-Gardening/blob/main/Home-Bee-Friendly-Gardening-10-27-2025_05_03_PM%20(1).png)
 ![Gallery Section](https://github.com/Syedaaneesa/Bee-Friendly-Gardening/blob/main/Home-Bee-Friendly-Gardening-10-27-2025_05_03_PM%20(2).png)
 ![Contact Section](https://github.com/Syedaaneesa/Bee-Friendly-Gardening/blob/main/Home-Bee-Friendly-Gardening-10-27-2025_05_03_PM.png)
