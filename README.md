@@ -89,3 +89,12 @@ It highlights the brand’s expertise through beautiful visuals, informative con
 
 ---
 
+## 📬 Contact
+If you need professional WordPress or Elementor solutions, I’d be glad to collaborate — don’t hesitate to get in touch!
+
+**👤 Developer:** Syeda Aneesa  
+**📧 Email:** saneesa@zeestmedia.com]  
+**🌍 Portfolio:** https://aneesa.zeestmedia.com
+
+---
+
