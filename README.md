@@ -87,15 +87,3 @@ It highlights the brand’s expertise through beautiful visuals, informative con
 
 ---
 
-## 📞 Contact  
-
-If you’d like to view the live project or discuss similar work:  
-
-**Developer:** Muhammad Abid  
-**Project Type:** WordPress Custom Website  
-**Category:** Gardening & Maintenance Business Website  
-
----
-
-## 📂 Folder Structure Example  
-
