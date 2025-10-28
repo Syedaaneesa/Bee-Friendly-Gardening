@@ -1,7 +1,7 @@
 # 🌿 Bee Friendly Gardening – Professional Gardening & Maintenance Services  
 
-A premium, fully customized **WordPress website** built for **Bee Friendly Gardening**, a company specializing in **eco-friendly gardening, landscaping, and outdoor maintenance**.  
-This project focuses on both **aesthetic design** and **functional performance**, ensuring a clean, responsive, and SEO-optimized user experience.  
+A fully tailored WordPress website developed for Bee Friendly Gardening, a brand dedicated to sustainable gardening, landscaping, and outdoor care.
+The project emphasizes both visual appeal and technical excellence, offering a clean, responsive, and SEO-optimized browsing experience.
 
 ---
 
