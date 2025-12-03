@@ -1,6 +1,6 @@
 # 🌿 Bee Friendly Gardening – Professional Gardening & Maintenance Services  
 
-A fully customized WordPress website built for Bee Friendly Gardening, a brand focused on sustainable gardening, landscaping, and outdoor care. The design blends striking visuals with a solid technical framework, ensuring quick loading speeds, complete mobile responsiveness, and improved SEO performance.
+A fully custom WordPress website crafted for Bee Friendly Gardening, a brand dedicated to sustainable gardening, landscaping, and outdoor care. The design combines eye-catching visuals with a strong technical foundation, delivering fast load times, full mobile responsiveness, and enhanced SEO performance.
 ---
 
 ## 🖼️ Project Preview  
@@ -22,9 +22,7 @@ Below are screenshots showcasing different sections of the Bee Friendly Gardenin
 
 ## 🌱 Project Overview  
 
-Bee Friendly Gardening is a clean, eco-driven website designed to showcase sustainable
-    gardening and maintenance services. It highlights the brand’s expertise with vibrant
-    visuals, concise messaging, and smooth, user-friendly navigation.
+Bee Friendly Gardening is a clean, eco-focused website designed to showcase sustainable gardening and maintenance services. It presents the brand’s expertise through vibrant visuals, clear messaging, and smooth, user-friendly navigation.
 
 ### ✨ Core Features  
 - Fully responsive and optimized WordPress website  
@@ -60,15 +58,15 @@ Bee Friendly Gardening is a clean, eco-driven website designed to showcase susta
 
 ## 💪 My Role & Contributions  
 
-Planned the site’s structure and layout flow
+Structured the site’s layout and navigation flow
 
 Designed a fully custom WordPress theme
 
-Optimized images, scripts, and overall code for better performance
+Optimized images, scripts, and code for improved performance
 
-Implemented SEO-friendly meta tags and schema
+Implemented SEO-friendly meta tags and schema markup
 
-Set up responsive breakpoints for mobile and tablet devices
+Added responsive breakpoints for mobile and tablet devices
 
 Integrated testimonial and gallery sections
 
