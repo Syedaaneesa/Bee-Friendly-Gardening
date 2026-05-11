@@ -100,7 +100,8 @@ Contact Page: Simplified communication options with an easy-to-use contact form.
 
 ##  About the Project  
 
-With over 25 years of expertise, Bee Friendly Gardening creates sustainable, vibrant, and serene outdoor spaces that flourish and inspire.
+With over 25 years of expertise, Bee Friendly Gardening specializes in creating sustainable, vibrant, and serene outdoor spaces that not only flourish naturally but also inspire a deeper connection with nature.
+
 ---
 
 ##  Contact
