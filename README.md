@@ -22,7 +22,8 @@ Below are screenshots showcasing different sections of the Bee Friendly Gardenin
 
 ##  Project Overview  
 
-Bee Friendly Gardening presents a modern, eco-conscious website that showcases its sustainable gardening and maintenance services through clear communication, engaging visuals, and a user-friendly experience.
+Bee Friendly Gardening presents a modern, eco-conscious website that highlights its sustainable gardening, landscaping, and maintenance services. The design focuses on clear communication, engaging visuals, and a smooth, user-friendly experience to effectively reflect the brand’s commitment to nature and sustainability.
+
 ###  Core Features  
 A fully responsive, high-performance WordPress website delivering a seamless experience across all screen sizes and devices.
 
