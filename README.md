@@ -54,15 +54,16 @@ Strategically placed call-to-action elements, including Call Us Now and View Our
 
 ##  Design Highlights  
 
-A nature-inspired color palette combining soothing greens with warm, earthy tones.
+A nature-inspired color palette that blends soothing greens with warm, earthy tones, creating a calm, organic, and visually balanced aesthetic.
+ 
+A clean, modern, and intuitive layout designed with a strong focus on clarity, readability, and effortless user experience across all devices.
+ 
+High-quality, immersive visuals that effectively highlight gardening activities, outdoor landscapes, and nature-based projects in a visually engaging way.
+ 
+Clearly structured and well-organized content sections that ensure smooth navigation, logical flow, and easy understanding of information.
 
-A clean, intuitive layout crafted to provide clarity and comfortable readability.
+Subtle, elegant animations and hover effects that enhance user interaction while maintaining a calm, distraction-free, and soothing browsing experience.
 
-High-quality visuals that effectively showcase gardening and outdoor projects.
-
-Clearly organized content sections designed for smooth navigation and easy comprehension.
-
-Subtle animations and hover effects that enhance user engagement while maintaining a calm, distraction-free experience.
 
 ---
 
