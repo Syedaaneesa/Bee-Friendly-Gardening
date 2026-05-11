@@ -65,7 +65,7 @@ Subtle animations and hover effects that enhance user engagement while maintaini
 
 ---
 
-## 💪 My Role & Contributions  
+##  My Role & Contributions  
 Designed a clean, intuitive layout with streamlined navigation to provide a seamless, user-centered experience.
 
 Built a fully custom WordPress theme tailored to the project’s goals and functional requirements.
@@ -81,7 +81,7 @@ Integrated testimonial and gallery sections to strengthen credibility and suppor
 Managed deployment and conducted testing on the live server
 ---
 
-## 🔍 Website Sections  
+##  Website Sections  
 
 Home Page: Provides a clear overview of core services and featured highlights.
 
@@ -97,7 +97,7 @@ Contact Page: Simplified communication options with an easy-to-use contact form.
 
 ---
 
-## 🌿 About the Project  
+##  About the Project  
 
 With over 25 years of expertise, Bee Friendly Gardening creates sustainable, vibrant, and serene outdoor spaces that flourish and inspire.
 ---
