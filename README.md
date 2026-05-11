@@ -23,7 +23,7 @@ Below are screenshots showcasing different sections of the Bee Friendly Gardenin
 ##  Project Overview  
 
 Bee Friendly Gardening presents a modern, eco-conscious website that showcases its sustainable gardening and maintenance services through clear communication, engaging visuals, and a user-friendly experience.
-### ✨ Core Features  
+###  Core Features  
 A fully responsive, high-performance WordPress website delivering a seamless experience across all screen sizes and devices.
 
 A custom-crafted theme designed to align perfectly with gardening and sustainability-focused brand identity.
@@ -40,7 +40,7 @@ Strategically placed call-to-action elements, including Call Us Now and View Our
 
 ---
 
-## 🛠️ Technologies Used  
+##  Technologies Used  
 
 - **WordPress CMS**  
 - **HTML5**, **CSS3**, **PHP**, **JavaScript**  
@@ -51,7 +51,7 @@ Strategically placed call-to-action elements, including Call Us Now and View Our
 
 ---
 
-## 🎨 Design Highlights  
+##  Design Highlights  
 
 A nature-inspired color palette combining soothing greens with warm, earthy tones.
 
