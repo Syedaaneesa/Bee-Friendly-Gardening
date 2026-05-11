@@ -105,9 +105,9 @@ With over 25 years of expertise, Bee Friendly Gardening creates sustainable, vib
 ## 📬 Contact
 If you’re looking for expert WordPress or Elementor support, I’d be happy to collaborate—feel free to reach out!
 **👤 Developer:** Syeda Aneesa  
-**📧 Email:** saneesa@zeestmedia.com
-**🌍 Portfolio:** https://aneesa.zeestmedia.com
+** Email:** saneesa@zeestmedia.com
+** Portfolio:** https://aneesa.zeestmedia.com
 
 ---
-## 📁 Repository Structure
+##  Repository Structure
 
