@@ -102,9 +102,9 @@ Contact Page: Simplified communication options with an easy-to-use contact form.
 With over 25 years of expertise, Bee Friendly Gardening creates sustainable, vibrant, and serene outdoor spaces that flourish and inspire.
 ---
 
-## 📬 Contact
+##  Contact
 If you’re looking for expert WordPress or Elementor support, I’d be happy to collaborate—feel free to reach out!
-**👤 Developer:** Syeda Aneesa  
+** Developer:** Syeda Aneesa  
 ** Email:** saneesa@zeestmedia.com
 ** Portfolio:** https://aneesa.zeestmedia.com
 
