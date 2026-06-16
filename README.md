@@ -2,7 +2,8 @@
 
 A fully custom WordPress website for Bee Friendly Gardening, a sustainability-focused brand offering eco-friendly gardening, landscaping, and outdoor care services. The site will be designed for high performance, full responsiveness across all devices, and strong SEO optimization to improve visibility and user experience.
 
-
+## Live Preview
+**URL:https://beefriendlygardening.co.uk/**
 ##  Project Preview  
 
 Below are screenshots showcasing different sections of the Bee Friendly Gardening website:
